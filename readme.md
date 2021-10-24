@@ -1,7 +1,18 @@
 # Obsidian 2 WordPress
 
-Todo: Alles ins Enghlische übersetzen 
+So far only an idea. But there are ideas of what it should be able to do:
 
-Bisher nur eine Idee. Aber Vorstellungen von dem was es können soll gibt es:
+Import Markdown files into WordPress. As an alternative to Obsidian's own publishing service. Time-controlled, automated, as little as possible for the user. Obsidian as editor for WordPress. Incl. metadata. As a WordPress plugin. 
 
-Markdown-Dateien in WordPress importieren. Als Alternative zum eigenen Publishing-Service von Obsidian. Zeitgesteuert, automatisiert, möglichst wenig Umsatand für den Anwende. Obsidian als Editor für WprdPress. Inkl. Metadaten. Als WordPress-Plugin. 
+
+## Planned Features
+
+- implemented as a WordPress plugin 
+- action started with wp scheduling service or manual 
+- support for the Obsidian Links 
+
+## (Pre)Released Feature 
+
+- Parser 
+- Import 
+- ...
